@@ -1,4 +1,4 @@
-# FaTech-DIP-6 - Python3
+# FaTech - DIP 6 - Python3
 Demonstração envolvendo OpenCV e Qt.
 
 requisitos:
