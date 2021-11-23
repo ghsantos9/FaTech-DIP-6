@@ -1,4 +1,11 @@
 # FaTech - DIP 6 - Python3
+```
+Bruno Silva de Araujo      | bruno.araujo37@fatec.sp.gov.br
+Daniel Gomes Dias          | daniel.dias19@fatec.sp.gov.br
+Gustavo Henrique Santos    | gustavo.santos173@fatec.sp.gov.br
+Renan Andrade de Morais    | renan.morais5@fatec.sp.gov.br
+Thainá Cristina Peres Cota | thaina.cota@fatec.sp.gov.br
+```
 Projeto envolvendo OpenCV e Qt.
 
 Requisitos:
