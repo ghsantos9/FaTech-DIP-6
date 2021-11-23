@@ -1,5 +1,5 @@
 # FaTech - DIP 6 - Python3
-Demonstração envolvendo OpenCV e Qt.
+Projeto envolvendo OpenCV e Qt.
 
 Requisitos:
 ```
