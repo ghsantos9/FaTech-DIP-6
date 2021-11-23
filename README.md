@@ -1,7 +1,7 @@
 # FaTech - DIP 6 - Python3
 Demonstração envolvendo OpenCV e Qt.
 
-requisitos:
+Requisitos:
 ```
 python3
 opencv-python-headless
