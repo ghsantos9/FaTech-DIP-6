@@ -1,0 +1,5 @@
+opencv-python-headless
+imutils
+qimage2ndarray
+face_recognition
+pyqt5
