@@ -52,7 +52,7 @@ class Ui_MainWindow(object):
         self.pergunta = QtWidgets.QLabel(self.verticalLayoutWidget_2)
         font = QtGui.QFont()
         font.setFamily("Sans Serif")
-        font.setPointSize(32)
+        font.setPointSize(30)
         self.pergunta.setFont(font)
         self.pergunta.setScaledContents(False)
         self.pergunta.setAlignment(QtCore.Qt.AlignCenter)
